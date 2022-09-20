@@ -1,0 +1,13 @@
+{
+  "name": "node-website",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Guillermo Tapia",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
